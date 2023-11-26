@@ -12,5 +12,6 @@ function even(numbers) {
 let numbers = [2, 7, 4];
 let evenNumbers = even(numbers);
 
+
 console.log(`Array: ${numbers}`);
 console.log(`Even numbers: ${evenNumbers}`);
