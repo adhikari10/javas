@@ -9,6 +9,7 @@ function even(numbers) {
     return result;
 }
 
+
 let numbers = [2, 7, 4];
 let evenNumbers = even(numbers);
 
